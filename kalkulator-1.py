@@ -23,4 +23,3 @@ while True:
     print(a,d,b,"=",k);
 
 
-2
